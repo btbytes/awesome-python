@@ -1039,6 +1039,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Lektor](https://www.getlektor.com/) - An easy to use static CMS and blog engine.
 * [Nikola](https://www.getnikola.com/) - A static website and blog generator.
 * [Pelican](https://blog.getpelican.com/) - Uses Markdown or ReST for content and Jinja 2 for themes. Supports DVCS, Disqus. AGPL.
+* [Statik](https://getstatik.com/) - allows you to define your own data models in YAML format to implement custom taxonomies.
 * [Tinkerer](http://tinkerer.me/) - Tinkerer is a blogging engine/.static website generator powered by Sphinx.
 
 ## Tagging
